@@ -37,13 +37,11 @@
 
 ## 国内政府开放数据平台
 
-中华人民共和国中央人民政府(http://www.gov.cn/)
+[中华人民共和国中央人民政府](http://www.gov.cn/)
 
-中华人民共和国交通运输部http://www.mot.gov.cn/
+[中华人民共和国交通运输部](http://www.mot.gov.cn/)
 
-北京市人民政府网http://www.beijing.gov.cn/
-
-国家统计局http://www.stats.gov.cn/
+[国家统计局](http://www.stats.gov.cn/)
 
 
 
