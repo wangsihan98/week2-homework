@@ -39,9 +39,28 @@
 
 中华人民共和国中央人民政府  http://www.gov.cn/
 
+国家统计局  http://www.stats.gov.cn/
+
+中华人民共和国国家统计局http://data.stats.gov.cn/
+
 中华人民共和国交通运输部  http://www.mot.gov.cn/
 
-国家统计局  http://www.stats.gov.cn/
+中华人民共和国农业农村部http://www.moa.gov.cn/
+
+中华人民共和国农业部http://jiuban.moa.gov.cn/
+
+中华人民共和国工业和信息化部http://www.miit.gov.cn/
+
+中华人民共和国文化和旅游部https://www.mct.gov.cn/
+
+中华人民共和国财政部http://www.mof.gov.cn/index.htm
+
+中华人民共和国商务部http://www.mofcom.gov.cn/
+
+中华人民共和国国家邮政局http://www.spb.gov.cn/
+
+中华人民共和国国家卫生健康委员会http://www.nhc.gov.cn/
+
 
 - 北京市
 
