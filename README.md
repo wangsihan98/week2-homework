@@ -37,7 +37,7 @@
 
 ## 国内政府开放数据平台
 
-中华人民共和国中央人民政府http://www.gov.cn/
+中华人民共和国中央人民政府(http://www.gov.cn/)
 
 中华人民共和国交通运输部http://www.mot.gov.cn/
 
