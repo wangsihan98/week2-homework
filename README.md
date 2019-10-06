@@ -37,12 +37,149 @@
 
 ## 国内政府开放数据平台
 
-[中华人民共和国中央人民政府](http://www.gov.cn/)
+中华人民共和国中央人民政府  http://www.gov.cn/
 
-[中华人民共和国交通运输部](http://www.mot.gov.cn/)
+中华人民共和国交通运输部  http://www.mot.gov.cn/
 
-[国家统计局](http://www.stats.gov.cn/)
+国家统计局  http://www.stats.gov.cn/
 
+- 北京市
+
+北京市人民政府  http://www.beijing.gov.cn/
+
+北京市政务数据资源网  http://www.bjdata.gov.cn/jkfb/index.htm
+
+- 上海市
+
+上海市政府数据服务网  http://www.data.sh.gov.cn/home!toHomePage.action
+
+- 天津市
+
+天津市信息资源统一开放平台  https://data.tj.gov.cn/
+
+- 四川省
+
+成都市公共数据开放平台  http://www.cddata.gov.cn/
+
+数据开放--四川省人民政府网站  http://www.sc.gov.cn/10462/13797/index.shtml
+
+雅安市人民政府数据开放栏目  http://www.yaan.gov.cn/shuju.html
+
+-福建省
+
+福建省公共信息资源统一开放平台  https://data.fujian.gov.cn/odweb/
+
+厦门市大数据开放平台  http://data.xm.gov.cn/
+
+- 广东省
+
+开放广东  http://gddata.gd.gov.cn/
+
+广东省金融数据开放平台  http://210.76.74.192/
+
+佛山市政府数据开放平台  http://www.foshan-data.cn/
+
+深圳市政府数据开放平台  http://opendata.sz.gov.cn/
+
+广州市政府数据统一开放平台  http://data.gz.gov.cn/
+
+数据东莞  http://dataopen.dg.gov.cn/dataopen/
+
+惠州市政府数据开放平台  http://data.huizhou.gov.cn/
+
+珠海市民生数据开放平台  http://data.zhuhai.gov.cn/
+
+广东省政府数据统一开放平台-潮州市  http://gddata.gd.gov.cn/index.php/data/ls/Type/0/v/344.html
+
+广东省政府数据统一开放平台-河源市  http://gddata.gd.gov.cn/index.php/data/ls/Type/0/v/339.html
+
+江门市数据开放平台  http://data.jiangmen.gov.cn/
+
+中山市政府数据统一开放平台  http://zsdata.zs.gov.cn/web/index
+
+肇庆市人民政府数据开放平台  http://www.zhaoqing.gov.cn/sjkf/
+
+- 贵州省
+
+贵阳市政府数据开放平台  http://www.gyopendata.gov.cn/
+
+遵义市政府数据开放平台  http://www.zyopendata.gov.cn/
+
+铜仁市政府数据开放平台  http://gztrdata.gov.cn/
+
+- 海南省
+
+海南省政府数据统一开放平台  http://data.hainan.gov.cn/
+
+- 河南省
+
+河南省公共数据开放平台  http://data.hnzwfw.gov.cn/odweb/
+
+- 江西省
+
+江西省政府数据开放网站  http://data.jiangxi.gov.cn/
+
+- 宁夏回族自治区
+
+宁夏回族自治区数据开放平台http://ningxiadata.gov.cn/odweb/index.htm
+
+石嘴山政府数据开放平台http://szssjkf.nxszs.gov.cn/
+
+银川市城市数据开放平台http://data.yinchuan.gov.cn/
+
+-山东省
+
+山东公共数据开放网http://data.sd.gov.cn/
+
+济南市公共数据开放网http://www.jndata.gov.cn/
+
+青岛公共数据开放网http://data.qingdao.gov.cn/
+
+- 陕西省
+
+陕西省公共数据开放平台http://www.sndata.gov.cn/
+
+哈尔滨市政府数据开放平台"http://data.harbin.gov.cn/
+
+- 浙江省
+
+浙江政务服务网“数据开放”专题网站http://data.zjzwfw.gov.cn/
+
+宁波市政府数据服务网http://www.datanb.gov.cn/nbdatafore/web/indexpage.action
+
+- 江苏省
+
+苏州市政府数据开放平台http://www.suzhou.gov.cn/dataOpenWeb/data
+
+常州市政府数据开放平台http://opendata.changzhou.gov.cn/
+
+- 安徽省
+
+合肥市政府数据开放平台http://61.133.142.137
+
+蚌埠市信息资源开放平台http://data.bengbu.gov.cn/
+
+黄山市人民政府数据开放栏目http://www.huangshan.gov.cn/DataDevelopment/showTopicContentList/8/page_1.html
+
+- 湖北省
+
+武汉市政务公开数据服务网http://www.wuhandata.gov.cn/whData/
+
+- 湖南省
+
+长沙市政府门户网站数据开放平台http://www.changsha.gov.cn/data/
+
+- 黑龙江省
+
+哈尔滨市政府数据开放平台http://data.harbin.gov.cn/
+
+-新疆维吾尔自治区
+
+新疆维吾尔自治区政务数据开放网http://data.xinjiang.gov.cn/index.html
+
+-台湾省
+
+台湾http://data.gov.tw/
 
 
 
