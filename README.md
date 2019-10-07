@@ -384,6 +384,8 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 
 将数据放至excel中统一计算，得出
 
+![picture](https://github.com/wangsihan98/week2-homework/blob/master/data3.png)
+
 2012年 8.12%	7.65%	7.54%	8.13%
 
 2013年 7.86%	7.57%	7.94%	7.71%
@@ -414,6 +416,8 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 （117357.6-104469.9）÷104469.9×100%=12.34%
 
 将数据放至excel中统一计算，得出
+
+![picture](https://github.com/wangsihan98/week2-homework/blob/master/data4.png)
 
 2012年  12.34%  10.45%  9.11%   10.00%
 
