@@ -5,6 +5,7 @@
 [《广州市政府信息共享管理规定》](http://www.gz.gov.cn/gzgov/s8263/201206/947942.shtml) 
 
 - 2015年
+
 [《促进大数据发展的行动纲要》](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
 
 - 2016年
