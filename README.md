@@ -374,7 +374,7 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 数据页面：http://data.stats.gov.cn/easyquery.htm?cn=B01
 
 计算步骤：
-
+![picture](https://github.com/wangsihan98/week2-homework/blob/master/data1.png)
 2011年
 98902.8 	110314.2	  115223.5	127039.6
 
@@ -429,7 +429,7 @@ World Bank Data（世界银行开放数据搜索网站）  https://data.worldban
 数据页面：http://data.stats.gov.cn/easyquery.htm?cn=B01
 
 计算步骤：
-
+![picture](https://github.com/wangsihan98/week2-homework/blob/master/data2.png)
 2011年
 104469.9  118895.9   126562.2   138012.1
 
