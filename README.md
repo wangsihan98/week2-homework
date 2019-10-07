@@ -4,9 +4,14 @@
 
 [《广州市政府信息共享管理规定》](http://www.gz.gov.cn/gzgov/s8263/201206/947942.shtml) 
 
+- 2015年
+[《促进大数据发展的行动纲要》](http://www.gov.cn/zhengce/content/2015-09/05/content_10137.htm)
+
 - 2016年
 
 [《政务信息资源共享管理暂行办法》](http://www.gov.cn/zhengce/content/2016-09/19/content_5109486.htm)
+
+[《福建省政务数据管理办法》](https://data.fujian.gov.cn/odweb/news/newsDetail.htm?news_id=29&resNewsType=0)
 
 - 2017年
 
@@ -16,11 +21,23 @@
 
 [《贵阳市政府数据共享开放条例》](http://www.guiyang.gov.cn/zwwgk/jcgk/jchgk/fggw/20180930/i1818010.html)
 
+[《山东省政务信息系统整合共享实施方案》](http://m.shandong.gov.cn/art/2017/10/25/art_2267_17870.html)
+
+[《浙江省公共数据和电子政务管理办法》](http://www.zj.gov.cn/art/2017/3/24/art_37172_290866.html)
+
+[《湖南省地理空间数据管理办法》](http://www.hunan.gov.cn/xxgk/wjk/fggz/flgzst/201703/t20170303_4898685.html)
+
 - 2018年
 
 [《教育部机关及直属事业单位教育数据管理办法》](http://www.moe.gov.cn/srcsite/A03/s7050/201802/t20180211_327248.html)
 
 [《贵阳市政府数据共享开放实施办法》](http://www.guiyang.gov.cn/zfxxgk/fgwj/sfwj/zfl/20180118/i1457977.html)
+
+[《天津市促进大数据发展应用条例》](http://www.tjrd.gov.cn/flfg/system/2018/12/17/030011277.shtml)
+
+[《成都市公共数据管理应用规定》](http://gk.chengdu.gov.cn/govInfoPub/detail.action?id=99573&tn=6)
+
+[《江西省地理信息数据管理办法》](http://xxgk.jiangxi.gov.cn/art/2018/1/4/art_442_239784.html)
 
 - 2019年
 
@@ -259,93 +276,93 @@
 
 Academic Torrents  http://academictorrents.com/
 
-Hadoopilluminated.Com  http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html
-
-United States Census Bureau(美国人口普查局)  https://www.census.gov/
-
-Usgovxml.Com（美国政府提供的公共Web服务和XML数据源的索引）  http://usgovxml.com/
-
-Enigma.Com （快速搜索和分析政府、公司和组织发布的数十亿份公共记录） https://www.enigma.com/
-
-Datahub.Io（发现和分享高质量数据集，与他人联系和分享知识） https://datahub.io/
-
-Aws.Amazon.Com/Datasets   https://registry.opendata.aws/
-
-Databib.Org（开放数据网站导航）  http://databib.org/
-
-Quandl.Com（金融，经济和替代数据集的主要来源）  https://www.quandl.com/
-
-Figshare.Com（研究论文上传网站）  https://figshare.com/
-
-GeoLite Legacy Downloadable Databases（IP地理定位数据库） https://dev.maxmind.com/geoip/geoip2/geolite2/
-
-Quora's Big Datasets Answer（公共开放数据集汇总） https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
-
-Kaggle Datasets（数据文档）  https://www.kaggle.com/datasets
+AMAZON数据集   https://registry.opendata.aws/
 
 A Deep Catalog Of Human Genetic Variation（国际基因组样本资源） https://www.internationalgenome.org/data
 
-Google Public Data（谷歌公开数据搜索网站） https://www.google.com/publicdata/directory
-
-World Bank Data（世界银行开放数据搜索网站）  https://data.worldbank.org/
-
-NYC Taxi Data（纽约出租车数据开放平台） http://chriswhong.github.io/nyctaxi/
-
-Open Data Philly （费城开放数据平台）  https://www.opendataphilly.org/
-
-Grouplens.Org（关于书籍、电源、wiki数据集）    https://grouplens.org/datasets/
-
-UC Irvine Machine Learning Repository （加州大学欧文机器学习库） http://archive.ics.uci.edu/ml/index.php
-
-Research-Quality Data Sets By Hilary Mason（公共数据集汇总） http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1
-
-National Climatic Data Center – NOAA（美国国家环境信息中心） https://www.ncdc.noaa.gov/
-
 ClimateData.Us （美国宇航局公布的美国气候数据） http://www.climatedata.us/
 
-R/Datasets（开放数据集汇总网站）  https://www.reddit.com/r/datasets/
+Datahub.Io（发现和分享高质量数据集，与他人联系和分享知识） https://datahub.io/
 
-MapLight （关于货币的数据集）  https://maplight.org/data/
-
-GHDx （健康指标和评估研究所）  http://ghdx.healthdata.org/
-
-St. Louis Federal Reserve Economic Data – FRED（圣路易斯联邦储备银行数据开放网站） https://fred.stlouisfed.org/
-
-New Zealand Institute Of Economic Research – Data1850（新西兰经济研究所） https://data1850.nz/
+Databib.Org（开放数据网站导航）  http://databib.org/
 
 Dept. Of Politics @ New York University（纽约大学政治数据中心）  http://www.nyu.edu/projects/politicsdatalab/datasupp_datasources.html
 
-Open Data Sources（Github网站上的开放数据源总结）https://github.com/datasciencemasters/data
+Enigma.Com （快速搜索和分析政府、公司和组织发布的数十亿份公共记录） https://www.enigma.com/
 
-UNICEF Statistics And Monitoring（联合国儿童基金会官网）  https://www.unicef.org/statistics/index_24287.html
+Figshare.Com（研究论文上传网站）  https://figshare.com/
 
-Undata（联合国国际统计数据库） http://data.un.org/Default.aspx
+Google Public Data（谷歌公开数据搜索网站） https://www.google.com/publicdata/directory
+
+Google Dataset Search (Beta)（谷歌数据集搜索门户）  https://toolbox.google.com/datasetsearch
+
+GeoLite Legacy Downloadable Databases（IP地理定位数据库） https://dev.maxmind.com/geoip/geoip2/geolite2/
+
+Grouplens.Org（关于书籍、电源、wiki数据集）    https://grouplens.org/datasets/
+
+GHDx （健康指标和评估研究所）  http://ghdx.healthdata.org/
+
+GHTorrent   http://ghtorrent.org/
+
+Github Free Data Source List（Github公共数据集）  https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets
+
+Hadoopilluminated.Com  http://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html
+
+IBM Blog Abour Open Data（数据科学中心）  https://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know
+
+Kaggle Datasets（数据文档）  https://www.kaggle.com/datasets
+
+Liver Tumor Segmentation Challenge Dataset   https://competitions.codalab.org/competitions/17094
+
+Microsoft Research Open Data（来自Microsoft Research的免费数据集）  https://msropendata.com/
+
+MapLight （关于货币的数据集）  https://maplight.org/data/
+
+NYC Taxi Data（纽约出租车数据开放平台） http://chriswhong.github.io/nyctaxi/
+
+National Climatic Data Center – NOAA（美国国家环境信息中心） https://www.ncdc.noaa.gov/
+
+New Zealand Institute Of Economic Research – Data1850（新西兰经济研究所） https://data1850.nz/
 
 NASA SocioEconomic Data And Applications Center – SEDAC（社会经济数据和应用中心）  https://sedac.ciesin.columbia.edu/
 
-The GDELT Project（GDELT博客） https://www.gdeltproject.org/#intro
+Open Data Philly （费城开放数据平台）  https://www.opendataphilly.org/
+
+Open Data Sources（Github网站上的开放数据源总结）https://github.com/datasciencemasters/data
+
+Open Government Data Platform India（印度开放政府数据（OGD）平台） https://data.gov.in/
+
+Public Git Archive（GitHub开放数据平台汇总）  https://github.com/src-d/datasets/tree/master/PublicGitArchive
+
+Quandl.Com（金融，经济和替代数据集的主要来源）  https://www.quandl.com/
+
+Quora's Big Datasets Answer（公共开放数据集汇总） https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+
+Research-Quality Data Sets By Hilary Mason（公共数据集汇总） http://web.archive.org/web/20150320022752/https://bitly.com/bundles/hmason/1
+
+R/Datasets（开放数据集汇总网站）  https://www.reddit.com/r/datasets/
+
+St. Louis Federal Reserve Economic Data – FRED（圣路易斯联邦储备银行数据开放网站） https://fred.stlouisfed.org/
 
 Sweden, Statistics（瑞典统计局）  https://www.scb.se/en/
-
-Github Free Data Source List（Github公共数据集）  https://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets
 
 StackExchange Data Explorer （一个开源工具，用于对来自StackExchange网络的公共数据进行任意查询）  https://data.stackexchange.com/
 
 San Fransisco Government Open Data（旧金山政府开发数据网站） https://datasf.org/opendata/
 
-IBM Blog Abour Open Data（数据科学中心）  https://www.datasciencecentral.com/profiles/blogs/the-free-big-data-sources-everyone-should-know
+The GDELT Project（GDELT博客） https://www.gdeltproject.org/#intro
 
-Liver Tumor Segmentation Challenge Dataset   https://competitions.codalab.org/competitions/17094
+United States Census Bureau(美国人口普查局)  https://www.census.gov/
 
-Public Git Archive（GitHub开放数据平台汇总）  https://github.com/src-d/datasets/tree/master/PublicGitArchive
+Usgovxml.Com（美国政府提供的公共Web服务和XML数据源的索引）  http://usgovxml.com/
 
-GHTorrent   http://ghtorrent.org/
+UC Irvine Machine Learning Repository （加州大学欧文机器学习库） http://archive.ics.uci.edu/ml/index.php
 
-Microsoft Research Open Data（来自Microsoft Research的免费数据集）  https://msropendata.com/
+UNICEF Statistics And Monitoring（联合国儿童基金会官网）  https://www.unicef.org/statistics/index_24287.html
 
-Open Government Data Platform India（印度开放政府数据（OGD）平台） https://data.gov.in/
+Undata（联合国国际统计数据库） http://data.un.org/Default.aspx
 
-Google Dataset Search (Beta)（谷歌数据集搜索门户）  https://toolbox.google.com/datasetsearch
+World Bank Data（世界银行开放数据搜索网站）  https://data.worldbank.org/
 
 ## 2012-2018年各季度GDP增速
 
