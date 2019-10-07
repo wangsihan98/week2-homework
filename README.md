@@ -24,11 +24,11 @@
 
 - 2019年
 
-[《北京市公共数据管理办法》](http://www.beijing.gov.cn/zfxxgk/110069/zwdt53/2019-07/15/content_c07acbde3cc04ad28274e96df537c44d.shtml)
-
 [《中华人民共和国政府信息公开条例》](http://www.gov.cn/zhengce/content/2019-04/15/content_5382991.htm)
 
 [《部省水运政务数据共享工作方案》](http://www.gov.cn/xinwen/2019-08/21/content_5423022.htm)
+
+[《北京市公共数据管理办法》](http://www.beijing.gov.cn/zfxxgk/110069/zwdt53/2019-07/15/content_c07acbde3cc04ad28274e96df537c44d.shtml)
 
 [《南京市政务数据管理暂行办法》](http://cgj.nanjing.gov.cn/xinyongjianshe/xyzcfg/201909/t20190904_1645383.html)
 
@@ -37,36 +37,55 @@
 
 ## 国内政府开放数据平台
 
+- 中央
+
 中华人民共和国中央人民政府  http://www.gov.cn/
 
 国家统计局  http://www.stats.gov.cn/
 
-中华人民共和国国家统计局http://data.stats.gov.cn/
+中华人民共和国国家统计局  http://data.stats.gov.cn/
 
 中华人民共和国交通运输部  http://www.mot.gov.cn/
 
-中华人民共和国农业农村部http://www.moa.gov.cn/
+中华人民共和国农业农村部  http://www.moa.gov.cn/
 
-中华人民共和国农业部http://jiuban.moa.gov.cn/
+中华人民共和国农业部  http://jiuban.moa.gov.cn/
 
-中华人民共和国工业和信息化部http://www.miit.gov.cn/
+中华人民共和国工业和信息化部  http://www.miit.gov.cn/
 
-中华人民共和国文化和旅游部https://www.mct.gov.cn/
+中华人民共和国文化和旅游部  https://www.mct.gov.cn/
 
-中华人民共和国财政部http://www.mof.gov.cn/index.htm
+中华人民共和国财政部  http://www.mof.gov.cn/index.htm
 
-中华人民共和国商务部http://www.mofcom.gov.cn/
+中华人民共和国商务部  http://www.mofcom.gov.cn/
 
-中华人民共和国国家邮政局http://www.spb.gov.cn/
+中华人民共和国国家邮政局  http://www.spb.gov.cn/
 
-中华人民共和国国家卫生健康委员会http://www.nhc.gov.cn/
+中华人民共和国国家卫生健康委员会  http://www.nhc.gov.cn/
 
+中华人民共和国国家发展和改革委员会http://www.ndrc.gov.cn/
+
+中华人民共和国民政部http://www.mca.gov.cn/
+
+中华人民共和国司法部http://www.moj.gov.cn/
+
+中华人民共和国人力资源和社会保障部  http://www.mohrss.gov.cn/index.html
+
+中华人民共和国自然资源部  http://www.mnr.gov.cn/
+
+中华人民共和国生态环境部  http://www.mee.gov.cn/
+
+中华人民共和国水利部  http://www.mwr.gov.cn/
+
+中国人民银行 http://www.pbc.gov.cn/
 
 - 北京市
 
 北京市人民政府  http://www.beijing.gov.cn/
 
 北京市政务数据资源网  http://www.bjdata.gov.cn/jkfb/index.htm
+
+北京市经济和信息化局https://jxj.beijing.gov.cn/index.htm
 
 - 上海市
 
@@ -82,13 +101,33 @@
 
 济南市公共数据开放网  http://www.jndata.gov.cn/
 
-青岛公共数据开放网  http://data.qingdao.gov.cn/
+青岛市公共数据开放网  http://data.qingdao.gov.cn/
+
+烟台市公共数据开放网http://ytdata.sd.gov.cn/
+
+泰安市公共数据开放网  http://tadata.sd.gov.cn/
+
+滨州市公共数据开放网  http://bzdata.sd.gov.cn/
+
+东营市公共数据开放网  http://dydata.sd.gov.cn/
+
+枣庄市公共数据开放网  http://www.zzdata.gov.cn/
+
+潍坊市公共数据开放网  http://wfdata.sd.gov.cn/
+
+威海市公共数据开放网  http://whdata.sd.gov.cn/
+
+德州市公共数据开放网  http://dzdata.sd.gov.cn/
+
+聊城市公共数据开放网  http://lcdata.sd.gov.cn/
+
+临沂市公共数据开放网  http://lydata.sd.gov.cn/
+
+菏泽市公共数据开放网http://hzdata.sd.gov.cn/
 
 - 陕西省
 
 陕西省公共数据开放平台  http://www.sndata.gov.cn/
-
-哈尔滨市政府数据开放平台  http://data.harbin.gov.cn/
 
 - 河南省
 
@@ -100,11 +139,15 @@
 
 宁波市政府数据服务网  http://www.datanb.gov.cn/nbdatafore/web/indexpage.action
 
+湖州市公共数据开放平台http://data.huzhou.gov.cn/
+
 - 江苏省
 
 苏州市政府数据开放平台  http://www.suzhou.gov.cn/dataOpenWeb/data
 
 常州市政府数据开放平台  http://opendata.changzhou.gov.cn/
+
+连云港市公共数据开放网http://www.lyg.gov.cn/data/
 
 - 江西省
 
@@ -180,6 +223,10 @@
 
 海南省政府数据统一开放平台  http://data.hainan.gov.cn/
 
+- 黑龙江省
+
+哈尔滨市政府数据开放平台  http://data.harbin.gov.cn/
+
 - 宁夏回族自治区
 
 宁夏回族自治区数据开放平台  http://ningxiadata.gov.cn/odweb/index.htm
@@ -188,13 +235,13 @@
 
 银川市城市数据开放平台  http://data.yinchuan.gov.cn/
 
-- 黑龙江省
-
-哈尔滨市政府数据开放平台  http://data.harbin.gov.cn/
-
--新疆维吾尔自治区
+- 新疆维吾尔自治区
 
 新疆维吾尔自治区政务数据开放网  http://data.xinjiang.gov.cn/index.html
+
+广西壮族自治区
+
+广西壮族自治区政府数据开放平台http://xxgk.gxzf.gov.cn/
 
 - 台湾省
 
