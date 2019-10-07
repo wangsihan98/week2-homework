@@ -257,7 +257,7 @@
 
 新疆维吾尔自治区政务数据开放网  http://data.xinjiang.gov.cn/index.html
 
-广西壮族自治区
+- 广西壮族自治区
 
 广西壮族自治区政府数据开放平台http://xxgk.gxzf.gov.cn/
 
